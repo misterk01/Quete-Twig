@@ -1,0 +1,13 @@
+{
+    "name": "misterk/quete_twig",
+    "description": "quete_twig",
+    "authors": [
+        {
+            "name": "Thierry Kuntzer",
+            "email": "thierrykuntzer@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
